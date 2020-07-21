@@ -1,8 +1,19 @@
-What is python? What are the ways to install python in your PC?
+What is python?
+What are the ways to install python in your PC?
 
-Answer: Python is a general purpose programming language developed by Guido van Rossum in 1991.But python has became most popular language in 2006.
+Answer:
+Python is a general-purpose coding language—which means that, unlike HTML, CSS, and JavaScript, it can be used for other types of programming and software development besides web development.
+
+Python can be used for things like:
+
+Back end (or server-side) web and mobile app development
+Desktop app and software development
+Processing big data and performing mathematical computations
+Writing system scripts (creating instructions that tell a computer system to “do” something)
 
 What is code enivornment? Types?
 
-Answer: code enivornment is a place where the user can code , debug the error and see the output of the code .The types are : 1.text editor 2.Full IDEs
+Answer: code enivornment is a place where the user can code , debug the error and see the output of the code .The types are : 
+1.text editor 
+2.Full IDEs
 3.Notebook enivornment
